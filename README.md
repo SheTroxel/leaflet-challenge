@@ -34,12 +34,22 @@ Here is an image of the topographical map view
 
 
 ------------------------------------------------------------
+
 References:
-MSU Data Analysis and Visualization Bootcamp
-USGS https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
-https://leafletjs.com/examples/choropleth/ for assistance in developing the legend
-https://colordesigner.io/ for color gradient charts
-leaflet legend: https://codepen.io/haakseth/pen/KQbjdO 
-https://chat.openai.com/ for code checking
-Leah Apking,her suggestions helped me in re-organizing my existing code. Sometimes it just takes a nudge to get you to the next step.
-Stack exchange: https://gis.stackexchange.com/questions/193161/add-legend-to-leaflet-map
+
+
+- MSU Data Analysis and Visualization Bootcamp
+
+- USGS https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
+- https://leafletjs.com/examples/choropleth/ for assistance in developing the legend
+
+- https://colordesigner.io/ for color gradient charts
+
+- leaflet legend: https://codepen.io/haakseth/pen/KQbjdO 
+
+- https://chat.openai.com/ for code checking
+
+- Leah Apking, her suggestions helped me in re-organizing my existing code. Sometimes it just takes a nudge to get you to the next step.
+
+- Stack exchange: https://gis.stackexchange.com/questions/193161/add-legend-to-leaflet-map
