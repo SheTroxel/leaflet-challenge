@@ -12,8 +12,19 @@ The URL that was used:
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
 # Import and Visualize the Data
-- Using Leaflet, I created a map that plots all the earthquakes in the dataset based on their longitude and latitude.
+- Using Leaflet and JavaScript, I created a map that plots all the earthquakes in the dataset based on their longitude and latitude.
 - Data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. The deeper the quake, the darker the color.
 - Popups are included to provide additional information about each quake when the marker is clicked. The information that appears include: place, time, and magnitude.
 - A legend is provided to provided the depth of each quake by the color of it's marker.
 
+
+Here is an image of the street map view
+
+
+![StreetMapView](https://github.com/SheTroxel/leaflet-challenge/blob/main/Leaflet-Part-1/map_image.png)
+
+
+
+Here is an image of the topographical map view
+
+![TopoMapView](https://github.com/SheTroxel/leaflet-challenge/blob/main/Leaflet-Part-1/topo_map_image.png)
