@@ -21,10 +21,10 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 Here is an image of the street map view
 
 
-![StreetMapView](https://github.com/SheTroxel/leaflet-challenge/blob/main/Leaflet-Part-1/map_image.png)
+![StreetMapViewPopups](https://github.com/SheTroxel/leaflet-challenge/blob/main/Leaflet-Part-1/map_image_popup.png) 
 
 
 
 Here is an image of the topographical map view
 
-![TopoMapView](https://github.com/SheTroxel/leaflet-challenge/blob/main/Leaflet-Part-1/topo_map_image.png)
+![TopoMapPopup](https://github.com/SheTroxel/leaflet-challenge/blob/main/Leaflet-Part-1/topo_map_popup.png)
