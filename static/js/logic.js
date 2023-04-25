@@ -17,7 +17,7 @@ function createFeatures(earthquakeData) {
     
     // Create a popup layer that describes the place, time and magnitude of the quake
     layer.bindPopup(`<h3>${feature.properties.place}</h3><hr><p>${new Date(feature.properties.time)}
-    <br>Magnitude:${feature.properties.mag} Depth: ${feature.geometry.coordinates[2]}</p>`);
+    <br>Magnitude:${feature.properties.mag} Depth: ${feature.geometry.coordinates[2]} km</p>`);
   };
 
   //Define marker appearance. 
