@@ -16,7 +16,8 @@ function createFeatures(earthquakeData) {
   function onEachFeature(feature, layer) {
     
     // Create a popup layer that describes the place, time and magnitude of the quake
-    layer.bindPopup(`<h3>${feature.properties.place}</h3><hr><p>${new Date(feature.properties.time)}<br>Magnitude:${feature.properties.mag}</p>`);
+    layer.bindPopup(`<h3>${feature.properties.place}</h3><hr><p>${new Date(feature.properties.time)}
+    <br>Magnitude:${feature.properties.mag} Depth: ${feature.geometry.coordinates[2]}</p>`);
   };
 
   //Define marker appearance. 
@@ -96,9 +97,6 @@ legend.onAdd = function(map) {
     return div; 
 };
 
-
-
-  
 
 //Create our map, giving it the streetmap and earthquakes layers
 function createMap(earthquakes){
